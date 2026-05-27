@@ -1,0 +1,6 @@
+Gender,Married,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+1,1,5000,120,1,1
+0,0,3000,90,1,1
+1,1,2500,200,0,0
+0,0,4000,150,1,1
+1,0,1500,100,0,0

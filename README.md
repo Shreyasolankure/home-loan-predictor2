@@ -1,1 +1,5 @@
-# home-loan-predictor2
+# Home Loan Prediction
+
+Run project:
+
+streamlit run app.py
